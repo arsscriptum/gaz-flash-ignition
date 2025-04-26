@@ -14,6 +14,8 @@ I edited a small portion of the video here:
 
 ![flame](data/bullet.gif)
 
+NOTE: Please checkout the original video, for some reason, the edit I did and conversion to gif format removed colors and you see way less yellow colors that we have in the original video
+
 ### Other Videos
 
 [STRONGEST .50 Cal Rounds vs Tungsten Cube](https://www.youtube.com/watch?v=QmLjMz6UNBE)
