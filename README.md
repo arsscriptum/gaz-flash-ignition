@@ -14,6 +14,8 @@ I edited a small portion of the video here:
 
 ![flame](data/bullet.gif)
 
+### Other Videos
 
+[STRONGEST .50 Cal Rounds vs Tungsten Cube](https://www.youtube.com/watch?v=QmLjMz6UNBE)
 
 
